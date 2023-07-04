@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.menuContainerStyle {
+  border: 1px solid #ffffff2d;
+  border-radius: 4px;
+  padding: 18px;
+  margin: 5px 0;
+  box-sizing: border-box;
+  background-color: blue;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
